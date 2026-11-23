@@ -2,7 +2,7 @@
 
 A conversational AI web application built with **Streamlit**, **LangChain**, and **Groq**, powered by the `openai/gpt-oss-120b` model.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Fast%20Inference-orange)
