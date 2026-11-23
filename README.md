@@ -19,3 +19,11 @@ A conversational AI web application built with **Streamlit**, **LangChain**, and
 
 - Python 3.8 or higher
 - A [Groq API Key](https://console.groq.com/)
+
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Venkatesh-Web-dev01/GenAI.git](https://github.com/Venkatesh-Web-dev01/GenAI.git)
+   cd GenAI
