@@ -7,4 +7,9 @@ A conversational AI web application built with **Streamlit**, **LangChain**, and
 - **Interactive Chat UI:** Clean, centered web interface built with Streamlit (`st.chat_message` and `st.chat_input`).
 - **Session-Based Memory:** Maintains conversation context across messages using `st.session_state`.
 - **Fast Inference:** Uses `langchain-groq` with `openai/gpt-oss-120b` (`temperature=0.0`) for consistent, low-latency responses.
+
 - 
+## Project Structure
+
+- `chatbot.py` – Main Streamlit application containing UI setup, session history management, and Groq LLM integration.
+- `requirements.txt` – Python dependencies required to run the application.
