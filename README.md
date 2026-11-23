@@ -13,3 +13,9 @@ A conversational AI web application built with **Streamlit**, **LangChain**, and
 
 - `chatbot.py` – Main Streamlit application containing UI setup, session history management, and Groq LLM integration.
 - `requirements.txt` – Python dependencies required to run the application.
+
+
+## Prerequisites
+
+- Python 3.8 or higher
+- A [Groq API Key](https://console.groq.com/)
